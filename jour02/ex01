@@ -1,0 +1,13 @@
+#include "main.h"
+
+void ft_print_alphabet(void)
+{
+
+ int c;
+ c='a';
+
+do
+{
+ft_putchar(c);
+!
+}while(c++,c <= 'z'); 
